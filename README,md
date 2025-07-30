@@ -1,5 +1,22 @@
-# Project Title & Description
+# Project Title & Description :
 - Renty = Title of website
 - Renty is an online video game rental subscription service that specializes in providing
  games for all systems starting from the sixth generation onwards.
+ - Users have the option to browse the website, sign up for subscription or sign in if already a member
+
+
+# First Page :
+- Includes a Nav bar with a dropdown menu, our logo and a signup or sign in button
+- dropdown menu will be interactive with you hover your mouse over but will not bring you to another page (yet)
+- sign up/sign in button will bring you to third page where you can fill out information accordingly
+- middle of the page will include a carousel/side of just a few games offered
+- below will be a table of buttons, those buttons include a variety of systems/consoles you can browse from. These buttons will also no be reactive (yet)
+
+# Second Page : 
 - 
+
+
+# Third Page:
+- will include two forms. one for signing up and the other for signing in
+- the signing up form will be different. will include subscription fee and basic personal info for signing up
+- will contain a small little bio above both forms about our website and what we can offer
