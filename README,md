@@ -6,17 +6,20 @@
 
 
 # First Page :
-- Includes a Nav bar with a dropdown menu, our logo and a signup or sign in button
-- dropdown menu will be interactive with you hover your mouse over but will not bring you to another page (yet)
-- sign up/sign in button will bring you to third page where you can fill out information accordingly
-- middle of the page will include a carousel/side of just a few games offered
-- below will be a table of buttons, those buttons include a variety of systems/consoles you can browse from. These buttons will also no be reactive (yet)
+- Includes a Nav bar with a dropdown menu, our logo, a signup, sign in and about us button
+- dropdown menu will be interactive when you hover your mouse over but will not bring you to another page (yet)
+- Sign up/sign in button will bring you to 2nd page where you can fill out information accordingly
+- About us button will take you to the 3rd page 
+- iddle of the page will include a carousel/side of just a few games offered
+- below will be a table of buttons, those buttons include a variety of systems/consoles you can browse from. These buttons you can hover over but will not be bring you to another page (yet)
 
 # Second Page : 
-- 
+- will include two forms. one for signing up and the other for signing in
+- the signing up form will be different. will include basic personal info for signing up
+- will also include the Nav bar similar to the homepage but with a back button
 
 
 # Third Page:
-- will include two forms. one for signing up and the other for signing in
-- the signing up form will be different. will include subscription fee and basic personal info for signing up
-- will contain a small little bio above both forms about our website and what we can offer
+- Will include the save navy bar on page 2
+- Will also include a bio of Renty and what we offered
+- As you scroll down we will have prompts that answers some common asked questions.

@@ -1,0 +1,60 @@
+ body {
+    background-color: black;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+ #navbar {
+     width: 100%;
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+     padding: 10px 50px;
+     box-sizing: border-box;
+ }
+
+ #logo {
+     width: 340px;
+     height: 70px;
+     margin-right: 500px;
+ }
+
+ #icon {
+     width: 150px;
+     height: 150px;
+     margin-left: -500px
+ }
+
+ #btn, #btn2 {
+     background-color: #b45309;
+     width: 100px;
+     color: #000;
+     font-weight: bold;
+     border: none;
+     border-radius: 5px;
+     margin-left: 400px;
+ }
+
+
+ #bio {
+    color: #fff;
+    text-align: center;
+     margin: 40px auto 32px auto;
+     max-width: 700px;
+     font-size: 1.2em;
+ }
+
+ .questions {
+    color: #fff;
+     border: none;
+     border-radius: 12px;
+     background: #1a1a1a;
+     margin: 20px auto;
+     padding: 24px 20px;
+     max-width: 650px;
+     text-align: center;
+ }
